@@ -1,8 +1,8 @@
-# engineering-times
+# Engineering-times
 ## Color to admin Panel
-** Achieved by using _pip install django-admin-interface_ module **
+**Achieved by using _pip install django-admin-interface_ module**
 
 ## Rest Framework ##
-**  filterd jason is applied by using Job.objects.filter()  **
+**Filterd jason is applied by using Job.objects.filter() **
 
-## ##
+
